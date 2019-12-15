@@ -1,12 +1,15 @@
 ## Summary
     
-- Calculate the lower bounds for the leading eigenvalues of the Laplacian by using the non-conforming finite element method. 
+For the eigenvalue problem of the Laplacian, the conforming and non-conforming finite element methods are utilized to provide explicit lower and upper bounds for the eigenvalues.
 
-- The Crouzeix-Rarviart (CR) finite element method is used to provide lower eigenvalue bounds; such a method even works for non-convex domains.
+Particularly, by applying Liu's method, the lower eigenvalue bounds can be easily obtained through the Crouzeix-Rarviart finite element method; such a method even works for non-convex domains.
 
-- The lower and upper eigenvalue bounds for an L-shaped domain are also given at the end of notebook file.
+The lower and upper eigenvalue bounds for both the unit square domain and an L-shaped domain are given in the notebook file.
 
-
-### Reference
+## Reference
 -  [A framework of verified eigenvalue bounds for self-adjoint differential operators, Xuefeng LIU, AMC-2015](https://www.sciencedirect.com/science/article/pii/S0096300315003628)
+
+## Online liver demo provided by binder.
+
+[http://...](http://...)
 
