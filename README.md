@@ -23,5 +23,3 @@ Requirement: python3+FEniCS
 ## Online live demo running at binder.
 
 Click the button to start the live demo! [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/xfliu/eigenvalue/master?filepath=Eigenvalue_bounds_of_Laplacian.ipynb)
-
-
