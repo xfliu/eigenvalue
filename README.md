@@ -11,6 +11,12 @@ The lower and upper eigenvalue bounds for both the unit square domain and an L-s
 
 <img src=https://github.com/xfliu/eigenvalue/blob/master/eigfunction_3.png> <img src=https://github.com/xfliu/eigenvalue/blob/master/eigfunction_4.png>
 
+## How to use
+
+The code is prepared as Jupyter notebook. Download the files and open it in Jupyter.
+
+Requirement: python3+FEniCS 
+
 ## Reference
 -  [A framework of verified eigenvalue bounds for self-adjoint differential operators, Xuefeng LIU, AMC-2015](https://www.sciencedirect.com/science/article/pii/S0096300315003628)
 
