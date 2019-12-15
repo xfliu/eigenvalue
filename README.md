@@ -8,6 +8,7 @@ The lower and upper eigenvalue bounds for both the unit square domain and an L-s
 
 
 <img src=https://github.com/xfliu/eigenvalue/blob/master/eigfunction_1.png> <img src=https://github.com/xfliu/eigenvalue/blob/master/eigfunction_2.png>
+
 <img src=https://github.com/xfliu/eigenvalue/blob/master/eigfunction_3.png> <img src=https://github.com/xfliu/eigenvalue/blob/master/eigfunction_4.png>
 
 ## Reference
