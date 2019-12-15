@@ -1,6 +1,7 @@
 name: fenics-python3
 dependencies:
   - python=3.6
+  - fenics
   - numpy
   - pip
   - pip:
