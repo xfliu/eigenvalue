@@ -16,6 +16,6 @@ The lower and upper eigenvalue bounds for both the unit square domain and an L-s
 
 ## Online liver demo provided by binder.
 
-Click the button to start the live demo! [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/xfliu/eigenvalue/master)
+Click the button to start the live demo! [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/xfliu/eigenvalue/master?filepath=Eigenvalue_bounds_of_Laplacian.ipynb)
 
 
