@@ -1,0 +1,8 @@
+name: fenics-python3
+dependencies:
+  - python=3.6
+  - numpy
+  - pip
+  - pip:
+    - fenics
+    - matplotlib
