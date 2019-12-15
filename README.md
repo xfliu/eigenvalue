@@ -7,8 +7,8 @@ Particularly, by applying Liu's method, the lower eigenvalue bounds can be easil
 The lower and upper eigenvalue bounds for both the unit square domain and an L-shaped domain are given in the notebook file.
 
 
-<img src=https://github.com/xfliu/eigenvalue/blob/master/eigfunction_1.png>
-<img src=https://github.com/xfliu/eigenvalue/blob/master/eigfunction_2.png>
+<img src=https://github.com/xfliu/eigenvalue/blob/master/eigfunction_1.png> <img src=https://github.com/xfliu/eigenvalue/blob/master/eigfunction_2.png>
+<img src=https://github.com/xfliu/eigenvalue/blob/master/eigfunction_3.png> <img src=https://github.com/xfliu/eigenvalue/blob/master/eigfunction_4.png>
 
 ## Reference
 -  [A framework of verified eigenvalue bounds for self-adjoint differential operators, Xuefeng LIU, AMC-2015](https://www.sciencedirect.com/science/article/pii/S0096300315003628)
