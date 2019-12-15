@@ -5,8 +5,5 @@ dependencies:
   - python=3.6
   - fenics
   - numpy
-  - pip
   - scipy
-  - pip:
-    - fenics
-    - matplotlib
+  - matplotlib
