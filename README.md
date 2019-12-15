@@ -14,7 +14,7 @@ The lower and upper eigenvalue bounds for both the unit square domain and an L-s
 ## Reference
 -  [A framework of verified eigenvalue bounds for self-adjoint differential operators, Xuefeng LIU, AMC-2015](https://www.sciencedirect.com/science/article/pii/S0096300315003628)
 
-## Online liver demo provided by binder.
+## Online live demo running at binder.
 
 Click the button to start the live demo! [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/xfliu/eigenvalue/master?filepath=Eigenvalue_bounds_of_Laplacian.ipynb)
 
