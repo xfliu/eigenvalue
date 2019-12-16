@@ -13,9 +13,9 @@ The lower and upper eigenvalue bounds for both the unit square domain and an L-s
 
 ## How to use
 
-The code is prepared as Jupyter notebook. Download the files and open it in Jupyter.
+The code is prepared as a Jupyter notebook. If you have Jupyter installed on your computer, just download the zipped file and open it in [Jupyter](https://jupyter.org/).
 
-Requirement: python3+FEniCS 
+Requirement: Python3+[FEniCS](https://fenicsproject.org/) + (optional) [Jupyter](https://jupyter.org/)
 
 ## Reference
 -  [A framework of verified eigenvalue bounds for self-adjoint differential operators, Xuefeng LIU, AMC-2015](https://www.sciencedirect.com/science/article/pii/S0096300315003628)
